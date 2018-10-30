@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project09</string>
+    <string name="twist">twist</string>
+    <string name="type_bid">Type of bid:</string>
+    <string name="certain_number">A certain number</string>
+    <string name="color_number">Color of number</string>
+    <string name="parity_number">Parity of number</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="congratulations">Congratulations, you won!</string>
+    <string name="lost">We are sorry you lost. Dropped:</string>
+    <string name="european_roulette">European Roulette</string>
+    <string name="rules">The player can bet on: a certain number, whether it is red or black, even or odd.
+To do this, select the type and value. If the value chosen by the player is the same as that which fell on the roulette,
+The player wins, if not - then loses.</string>
+</resources>

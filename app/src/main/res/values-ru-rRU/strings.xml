@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project09</string>
+    <string name="twist">Крутить</string>
+    <string name="type_bid">Тип ставки:</string>
+    <string name="certain_number">Определенное число</string>
+    <string name="color_number">Цвет номера</string>
+    <string name="parity_number">Четность</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">OK</string>
+    <string name="congratulations">Поздравляем, ты выиграл!</string>
+    <string name="lost">Сожалеем, ты проиграл. Выпало:</string>
+    <string name="european_roulette">Европейская рулетка</string>
+    <string name="rules">Игрок может делать ставки на: определенное число, будет ли число красным или черным, четным или нечетным.
+        Для этого необходимо выбрать вид ставки и значение. Если значение, выбранное игроком совпадает с тем, что выпало на рулетке,
+    игрок выигрывает, если нет - то проигрывает.</string>
+</resources>
